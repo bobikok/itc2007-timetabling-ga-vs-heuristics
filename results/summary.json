@@ -1,0 +1,553 @@
+{
+ "agg": [
+  {
+   "instance": "comp01",
+   "method": "GA",
+   "soft": 151.0,
+   "sd": 41.33,
+   "best": 113,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp01",
+   "method": "Greedy-Rand",
+   "soft": 377.0,
+   "sd": 155.23,
+   "best": 200,
+   "feas": 0.0,
+   "hard": 4.67
+  },
+  {
+   "instance": "comp01",
+   "method": "Greedy-Sat",
+   "soft": 272.0,
+   "sd": NaN,
+   "best": 272,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp01",
+   "method": "HC",
+   "soft": 17.0,
+   "sd": 14.73,
+   "best": 8,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp01",
+   "method": "MA",
+   "soft": 125.33,
+   "sd": 24.83,
+   "best": 111,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp01",
+   "method": "SA",
+   "soft": 21.0,
+   "sd": 1.0,
+   "best": 20,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp02",
+   "method": "GA",
+   "soft": 643.67,
+   "sd": 11.85,
+   "best": 630,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp02",
+   "method": "Greedy-Rand",
+   "soft": 671.33,
+   "sd": 10.79,
+   "best": 659,
+   "feas": 0.0,
+   "hard": 25.67
+  },
+  {
+   "instance": "comp02",
+   "method": "Greedy-Sat",
+   "soft": 657.0,
+   "sd": NaN,
+   "best": 657,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp02",
+   "method": "HC",
+   "soft": 221.0,
+   "sd": 13.23,
+   "best": 211,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp02",
+   "method": "MA",
+   "soft": 634.67,
+   "sd": 19.66,
+   "best": 620,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp02",
+   "method": "SA",
+   "soft": 249.67,
+   "sd": 29.37,
+   "best": 218,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp03",
+   "method": "GA",
+   "soft": 597.67,
+   "sd": 7.57,
+   "best": 589,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp03",
+   "method": "Greedy-Rand",
+   "soft": 715.0,
+   "sd": 24.02,
+   "best": 696,
+   "feas": 0.0,
+   "hard": 16.67
+  },
+  {
+   "instance": "comp03",
+   "method": "Greedy-Sat",
+   "soft": 610.0,
+   "sd": NaN,
+   "best": 610,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp03",
+   "method": "HC",
+   "soft": 233.0,
+   "sd": 30.61,
+   "best": 204,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp03",
+   "method": "MA",
+   "soft": 566.67,
+   "sd": 43.5,
+   "best": 523,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp03",
+   "method": "SA",
+   "soft": 217.0,
+   "sd": 26.0,
+   "best": 191,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp04",
+   "method": "GA",
+   "soft": 559.33,
+   "sd": 12.1,
+   "best": 550,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp04",
+   "method": "Greedy-Rand",
+   "soft": 581.67,
+   "sd": 72.67,
+   "best": 501,
+   "feas": 0.33,
+   "hard": 6.67
+  },
+  {
+   "instance": "comp04",
+   "method": "Greedy-Sat",
+   "soft": 579.0,
+   "sd": NaN,
+   "best": 579,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp04",
+   "method": "HC",
+   "soft": 102.0,
+   "sd": 11.53,
+   "best": 91,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp04",
+   "method": "MA",
+   "soft": 464.0,
+   "sd": 16.0,
+   "best": 448,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp04",
+   "method": "SA",
+   "soft": 155.0,
+   "sd": 7.55,
+   "best": 147,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp05",
+   "method": "GA",
+   "soft": 1704.0,
+   "sd": 15.62,
+   "best": 1694,
+   "feas": 0.0,
+   "hard": 2.0
+  },
+  {
+   "instance": "comp05",
+   "method": "Greedy-Rand",
+   "soft": 2011.33,
+   "sd": 177.43,
+   "best": 1884,
+   "feas": 0.0,
+   "hard": 29.67
+  },
+  {
+   "instance": "comp05",
+   "method": "Greedy-Sat",
+   "soft": 1736.0,
+   "sd": NaN,
+   "best": 1736,
+   "feas": 0.0,
+   "hard": 2.0
+  },
+  {
+   "instance": "comp05",
+   "method": "HC",
+   "soft": 872.33,
+   "sd": 147.55,
+   "best": 709,
+   "feas": 0.0,
+   "hard": 1.0
+  },
+  {
+   "instance": "comp05",
+   "method": "MA",
+   "soft": 1614.33,
+   "sd": 149.81,
+   "best": 1447,
+   "feas": 0.0,
+   "hard": 1.67
+  },
+  {
+   "instance": "comp05",
+   "method": "SA",
+   "soft": 641.0,
+   "sd": 74.72,
+   "best": 555,
+   "feas": 0.33,
+   "hard": 1.0
+  },
+  {
+   "instance": "comp06",
+   "method": "GA",
+   "soft": 765.33,
+   "sd": 57.57,
+   "best": 701,
+   "feas": 0.0,
+   "hard": 3.33
+  },
+  {
+   "instance": "comp06",
+   "method": "Greedy-Rand",
+   "soft": 789.33,
+   "sd": 112.7,
+   "best": 715,
+   "feas": 0.0,
+   "hard": 10.67
+  },
+  {
+   "instance": "comp06",
+   "method": "Greedy-Sat",
+   "soft": 701.0,
+   "sd": NaN,
+   "best": 701,
+   "feas": 0.0,
+   "hard": 4.0
+  },
+  {
+   "instance": "comp06",
+   "method": "HC",
+   "soft": 174.33,
+   "sd": 11.24,
+   "best": 162,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp06",
+   "method": "MA",
+   "soft": 777.33,
+   "sd": 114.51,
+   "best": 701,
+   "feas": 0.0,
+   "hard": 2.67
+  },
+  {
+   "instance": "comp06",
+   "method": "SA",
+   "soft": 262.0,
+   "sd": 18.33,
+   "best": 246,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp07",
+   "method": "GA",
+   "soft": 794.0,
+   "sd": 0.0,
+   "best": 794,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp07",
+   "method": "Greedy-Rand",
+   "soft": 837.0,
+   "sd": 56.63,
+   "best": 788,
+   "feas": 0.0,
+   "hard": 18.67
+  },
+  {
+   "instance": "comp07",
+   "method": "Greedy-Sat",
+   "soft": 794.0,
+   "sd": NaN,
+   "best": 794,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp07",
+   "method": "HC",
+   "soft": 180.33,
+   "sd": 5.03,
+   "best": 175,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp07",
+   "method": "MA",
+   "soft": 766.0,
+   "sd": 30.2,
+   "best": 734,
+   "feas": 1.0,
+   "hard": 0.0
+  },
+  {
+   "instance": "comp07",
+   "method": "SA",
+   "soft": 308.67,
+   "sd": 24.34,
+   "best": 287,
+   "feas": 1.0,
+   "hard": 0.0
+  }
+ ],
+ "mean_rank": {
+  "Greedy-Rand": 6.0,
+  "Greedy-Sat": 4.64,
+  "GA": 4.07,
+  "MA": 3.29,
+  "HC": 1.29,
+  "SA": 1.71
+ },
+ "mean_gap_pct": {
+  "GA": 614.8,
+  "Greedy-Rand": 561.5,
+  "Greedy-Sat": 924.1,
+  "HC": 27.0,
+  "MA": 522.3,
+  "SA": 63.6
+ },
+ "feasible_rate": {
+  "GA": 0.714,
+  "Greedy-Rand": 0.048,
+  "Greedy-Sat": 0.714,
+  "HC": 0.857,
+  "MA": 0.714,
+  "SA": 0.905
+ },
+ "friedman": 5.4926885584811276e-06,
+ "pairwise": {
+  "SA vs GA": {
+   "mean_diff": -480.1,
+   "wins": 21,
+   "n": 21,
+   "p": 9.5367431640625e-07
+  },
+  "HC vs GA": {
+   "mean_diff": -487.9,
+   "wins": 21,
+   "n": 21,
+   "p": 9.5367431640625e-07
+  },
+  "MA vs GA": {
+   "mean_diff": -38.1,
+   "wins": 15,
+   "n": 21,
+   "p": 0.015231184023652616
+  },
+  "HC vs SA": {
+   "mean_diff": -7.8,
+   "wins": 15,
+   "n": 21,
+   "p": 0.098690037910829
+  },
+  "HC vs MA": {
+   "mean_diff": -449.8,
+   "wins": 21,
+   "n": 21,
+   "p": 9.5367431640625e-07
+  },
+  "SA vs MA": {
+   "mean_diff": -442.0,
+   "wins": 21,
+   "n": 21,
+   "p": 9.5367431640625e-07
+  }
+ },
+ "improvement_vs_greedy_pct": {
+  "HC": 72.4,
+  "SA": 68.4,
+  "GA": 6.4,
+  "MA": 12.0
+ },
+ "greedy_rand": {
+  "soft": {
+   "comp01": 377.0,
+   "comp02": 671.33,
+   "comp03": 715.0,
+   "comp04": 581.67,
+   "comp05": 2011.33,
+   "comp06": 789.33,
+   "comp07": 837.0
+  },
+  "feas": {
+   "comp01": 0.0,
+   "comp02": 0.0,
+   "comp03": 0.0,
+   "comp04": 0.33,
+   "comp05": 0.0,
+   "comp06": 0.0,
+   "comp07": 0.0
+  },
+  "hard": {
+   "comp01": 4.67,
+   "comp02": 25.67,
+   "comp03": 16.67,
+   "comp04": 6.67,
+   "comp05": 29.67,
+   "comp06": 10.67,
+   "comp07": 18.67
+  }
+ },
+ "greedy_sat": {
+  "hard": {
+   "comp01": 0,
+   "comp02": 0,
+   "comp03": 0,
+   "comp04": 0,
+   "comp05": 2,
+   "comp06": 4,
+   "comp07": 0
+  },
+  "soft": {
+   "comp01": 272,
+   "comp02": 657,
+   "comp03": 610,
+   "comp04": 579,
+   "comp05": 1736,
+   "comp06": 701,
+   "comp07": 794
+  },
+  "time": {
+   "comp01": 0.05,
+   "comp02": 0.06,
+   "comp03": 0.05,
+   "comp04": 0.05,
+   "comp05": 0.03,
+   "comp06": 0.06,
+   "comp07": 0.08
+  }
+ },
+ "soft_breakdown": {
+  "S1_capacity": {
+   "GA": 41.0,
+   "Greedy-Sat": 35.1,
+   "HC": 12.9,
+   "MA": 50.5,
+   "SA": 14.3
+  },
+  "S2_min_days": {
+   "GA": 8.3,
+   "Greedy-Sat": 5.0,
+   "HC": 30.0,
+   "MA": 16.7,
+   "SA": 52.1
+  },
+  "S3_isolated": {
+   "GA": 636.8,
+   "Greedy-Sat": 667.7,
+   "HC": 188.5,
+   "MA": 572.1,
+   "SA": 130.8
+  },
+  "S4_room_stability": {
+   "GA": 58.9,
+   "Greedy-Sat": 56.3,
+   "HC": 25.8,
+   "MA": 67.6,
+   "SA": 67.7
+  }
+ },
+ "ga_stats": {
+  "generations": {
+   "GA": 1599.0,
+   "MA": 20.0
+  },
+  "evaluations": {
+   "GA": 44748.0,
+   "MA": 719884.0
+  }
+ },
+ "ls_moves": {
+  "HC": 751939.0,
+  "SA": 775552.0
+ }
+}

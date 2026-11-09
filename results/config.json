@@ -1,0 +1,12 @@
+{
+ "budget_s": 60.0,
+ "seeds": 3,
+ "pop_size": 30,
+ "tournament": 3,
+ "elite": 2,
+ "mut_rate": 0.01,
+ "ma_local_moves": 2000,
+ "ma_pop_size": 20,
+ "sa_Tend": 0.2,
+ "init_mut_rate": 0.05
+}
